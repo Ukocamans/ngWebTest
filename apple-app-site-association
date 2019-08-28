@@ -1,11 +1,93 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "9V7H6P8N9A.com.bilyoner.ios.BilyonerNG",
-      "paths": ["*"]
-    }
-    ]
-  }
+{ 
+   "activitycontinuation":{ 
+      "apps":[ 
+         "7E33PZGZ87.com.bilyoner.legacy.ios",
+         "7E33PZGZ87.com.pozitron.Bilyoner",
+         "588Z53THP8.com.pozitron.bilyoner.debug",
+         "588Z53THP8.com.pozitron.bilyoner.iphone.test",
+         "588Z53THP8.com.pozitron.bilyoner.iphone.externalrelease",
+         "588Z53THP8.com.pozitron.bilyoner.iphone.prod",
+         "7E33PZGZ87.com.pozitron.Bilyoner.ipad",
+         "588Z53THP8.com.pozitron.bilyoner.ipad.debug",
+         "588Z53THP8.com.pozitron.bilyoner.ipad.test",
+         "588Z53THP8.com.pozitron.bilyoner.ipad.prod"
+      ]
+   },
+   "applinks":{ 
+      "apps":[ 
+
+      ],
+      "details":[ 
+         { 
+            "appID":"7E33PZGZ87.com.bilyoner.legacy.ios",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"7E33PZGZ87.com.pozitron.Bilyoner",
+            "paths":[ 
+               "NOT /para-yatir",
+               "*"
+            ]
+         },
+         { 
+            "appID":"588Z53THP8.com.pozitron.bilyoner.debug",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"588Z53THP8.com.pozitron.bilyoner.iphone.test",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"588Z53THP8.com.pozitron.bilyoner.iphone.externalrelease",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"588Z53THP8.com.pozitron.bilyoner.iphone.prod",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"7E33PZGZ87.com.pozitron.Bilyoner.ipad",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"588Z53THP8.com.pozitron.bilyoner.ipad.debug",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"588Z53THP8.com.pozitron.bilyoner.ipad.test",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         },
+         { 
+            "appID":"588Z53THP8.com.pozitron.bilyoner.ipad.prod",
+            "paths":[ 
+               "/fp/*",
+               "/iddaa/iddaa-bahis-yap/*"
+            ]
+         }
+      ]
+   }
 }
